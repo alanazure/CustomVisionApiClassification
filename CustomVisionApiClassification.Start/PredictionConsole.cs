@@ -66,6 +66,7 @@ namespace CustomVisionApiClassification.Start
                     var testImageFileName = Path.GetFileName(testImage);
                     Console.WriteLine($"    Processing { testImageFileName }...");
 
+                    // ToDo: Get the top prediction
 
 
                     // Fix the statistics
